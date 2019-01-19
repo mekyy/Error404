@@ -2577,10 +2577,6 @@ client.on('message',async message => {
             });
 
 
-client.guilds.get('530674227519422465').roles.find("name", "Erorr").setColor("RANDOM");
-    }
-    setInterval(rainbow, 3000);//rainbow delay time (ms)
-  })
 
 
 
